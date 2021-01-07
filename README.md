@@ -15,3 +15,7 @@ lalala
 lalala
 
 ## How to Contribute
+
+##Branching and merging
+
+lalala
