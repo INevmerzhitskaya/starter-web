@@ -23,3 +23,5 @@ lalala
 ##Branching and merging
 
 lalala stash
+
+stash -u
